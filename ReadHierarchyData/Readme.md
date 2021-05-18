@@ -1,7 +1,8 @@
 # How to read hierarchical data with Kofax RPA
 This guide will show how to convert this [webpage](https://www.sec.gov/Archives/edgar/data/84839/000117120021000076/i21062_ex21.htm) into a list of data, which shows the parent of a hierarchy.
 It converts this  
-![image](https://user-images.githubusercontent.com/47416964/118659356-87e50f00-b7ed-11eb-8443-065b74e192b7.png)  
+![image](https://user-images.githubusercontent.com/47416964/118660143-35582280-b7ee-11eb-98ea-006c789acc7c.png)
+
 to this by keeping track of who the Parent company is by the indent level  
 Name | Location | Percentage | Parent | Level
 --- | --- | --- | --- | ---
