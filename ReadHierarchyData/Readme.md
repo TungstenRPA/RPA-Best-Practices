@@ -11,6 +11,7 @@ Orkin, LLC | Delaware |  | Rollins, Inc. | 2
 Orkin Systems, LLC | Delaware |  | Orkin, LLC | 3
 Orkin S.A de C.V. | Mexico |  | Orkin, LLC | 3
 Orkin Expansion, Inc. | Delaware |  | Orkin, LLC | 3
+PCO Acquisitions, Inc. | Delaware |  | Orkin Expansion, Inc. | 4
 Rollins Dutch Holdings C.V. | Netherlands | 99% | PCO Acquisitions, Inc. | 5
 Rollins Investment, LLC | Delaware | 1% | PCO Acquisitions, Inc. | 5
 Rollins Dutch Holdings C.V | Netherlands |  | Rollins Investment, LLC | 6
