@@ -21,7 +21,7 @@ Reasons why some Websites don’t work with Kofax RPA Web robots.
   * Open Tools/BrowserTracer (F12) to see what the web page is waiting for.
   * Then replace it with an Element Appears or Disappears.  
 ![image](https://user-images.githubusercontent.com/47416964/120484684-9ae20c80-c3b3-11eb-8d4d-1b0b4e9ab04a.png)
-1. Be a good javascript hacker
+2. Be a good javascript hacker
   * Open the page in Chrome/Firefox/Internet Explorer.
   * Use Debugging tools and Network Monitor to see how the web page is communicating with the server
   * Call that javascript directly from the robot  
@@ -29,6 +29,11 @@ Reasons why some Websites don’t work with Kofax RPA Web robots.
   * Or call the REST service directly  
 ![image](https://user-images.githubusercontent.com/47416964/120484865-c664f700-c3b3-11eb-956e-23eae4db4562.png)
   * Or call directly the HTTP that the javascript
+2. Use Chromium in a Desktop Automation robot
+  * This will almost certainly work as it is effectively a normal browser.
+  * Some Google Sites (like Google Calendar) will not work like this. You will need to use Google Developer APIs.
+2. Use a classic browser on a Windows Desktop
+  * Do this if it requires Flash or Internet Explorer or ActiveX.
 
 
 
