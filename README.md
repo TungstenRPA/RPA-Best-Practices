@@ -5,5 +5,8 @@
 * [Introduction to Robot Lifecycle Management](https://kofax.app.bigtincan.com/pfiles/3pKyn45JXwNMZLDVoBwatbheTNsqC1C0gjAzkQ2mr690aYRevP)
 # Tips for Basic Engine Robots
 * [Build XML, SON or CSV from database](Build%20XML%2CJSON%2CCSV%20from%20database.md)
+# Tips for Robots (Desktop, Terminal, Chromium)
+* Write very small robots that do only one task each. Coordinate them together with a Basic Engine Robot.  *R: means that it is a (Desktop) Robot.*  
+![image](https://user-images.githubusercontent.com/47416964/159471729-faa30620-b691-424f-b00a-8c8054f2835a.png)
 
 # [RPA-Best-Practices Wiki](https://github.com/KofaxRPA/RPA-Best-Practices/wiki) (work in progress)
