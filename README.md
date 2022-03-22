@@ -4,5 +4,6 @@
 * [Attended Robot with Kofax Transformation](https://kofax.app.bigtincan.com/pfiles/jdrRlDXkZ6Jn59w1OgoYt0heTqslCxhQBpoqN4WPzaYx72AQyG) 
 * [Introduction to Robot Lifecycle Management](https://kofax.app.bigtincan.com/pfiles/3pKyn45JXwNMZLDVoBwatbheTNsqC1C0gjAzkQ2mr690aYRevP)
 # Tips for Basic Engine Robots
+* [Build XML, SON or CSV from database](Build%20XML%2CJSON%2CCSV%20from%20database.md)
 
 # [RPA-Best-Practices Wiki](https://github.com/KofaxRPA/RPA-Best-Practices/wiki) (work in progress)
