@@ -12,5 +12,5 @@
 * Always use **Location** guards wherever possible in a **Guarded Choice** Step. Avoid Wait guards and Tree Change guards. Watch [this video](https://kofax.app.bigtincan.com/pfiles/xmdrWZMQJvLG65K1yEW7tjFLtZCjUQFMEknz9oYw2O47plVXAq/f/1038408817) to see why!  
   *This example handles the case when a login succeeds, password is wrong (an expected behaviour), or something unknown happens (so we throw an exception to generate a error message in Robot logs)*  
 ![image](https://user-images.githubusercontent.com/47416964/159472902-89f92db6-e54a-4e42-8c68-ae369fa9c243.png)
-
+* [Fast Building and Debugging complex robots via nesting](Robot%20Debugging%3a%20Build%20a%20nested%20robot.md)
 # [RPA-Best-Practices Wiki](https://github.com/KofaxRPA/RPA-Best-Practices/wiki) (work in progress)
